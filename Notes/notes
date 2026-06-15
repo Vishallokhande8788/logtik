@@ -1,0 +1,15 @@
+Pushing: Local PC to GitHub
+1 Create a repository on GitHub to hold your project.
+2 Initialize Git in your local project folder using git init.
+3 Stage files using git add . to prepare them for uploading.
+4 Commit changes locally with git commit -m "Your message".
+5 Link repositories using git remote add origin YOUR_URL.
+6 Push code to GitHub using the git push -u origin main command.
+
+
+
+Pulling: GitHub to Local PC
+1 Download repositories the first time by using git clone YOUR_URL.
+2 Fetch updates that other people made using the git fetch command.
+3 Merge updates into your local code automatically using git pull.
+4 Stay updated by pulling fresh changes every day before you
